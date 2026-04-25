@@ -21,6 +21,16 @@
 - **Notifications** : Android Notification Manager (Alertes de seuil)
 - **Architecture** : Pattern Manager avec écouteurs (listeners) pour une UI réactive.
 
+- ![image alt](https://github.com/zahra-8/app-mobile/blob/e1a1c144d73f95ab9f34367b4518d471f162eb3d/WhatsApp%20Image%202026-02-26%20at%2017.10.50.jpeg)
+- ![image alt](https://github.com/zahra-8/app-mobile/blob/e1a1c144d73f95ab9f34367b4518d471f162eb3d/WhatsApp%20Image%202026-03-05%20at%2017.58.19.jpeg)
+- ![image alt](https://github.com/zahra-8/app-mobile/blob/e1a1c144d73f95ab9f34367b4518d471f162eb3d/WhatsApp%20Image%202026-03-05%20at%2017.58.21.jpeg)
+- ![image alt](https://github.com/zahra-8/app-mobile/blob/e1a1c144d73f95ab9f34367b4518d471f162eb3d/WhatsApp%20Image%202026-03-05%20at%2017.58.23%20(1).jpeg)
+- ![image alt](https://github.com/zahra-8/app-mobile/blob/e1a1c144d73f95ab9f34367b4518d471f162eb3d/WhatsApp%20Image%202026-03-05%20at%2017.58.23%20(2).jpeg)
+-![image alt](https://github.com/zahra-8/app-mobile/blob/e1a1c144d73f95ab9f34367b4518d471f162eb3d/WhatsApp%20Image%202026-03-05%20at%2017.58.23%20(3).jpeg)
+
+
+
+
 
 
 
