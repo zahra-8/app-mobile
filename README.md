@@ -21,8 +21,6 @@
 - **Notifications** : Android Notification Manager (Alertes de seuil)
 - **Architecture** : Pattern Manager avec écouteurs (listeners) pour une UI réactive.
 
-##  Installation et Utilisation
 
-1. **Cloner le projet** :
-   ```bash
-   git clone https://gitlab.com/votre-lien/limargent.git
+
+
